@@ -1,0 +1,40 @@
+.navscar{
+    font-size: 2rem !important;
+    color: green !important;;
+}
+.edit{
+    width: 120px;
+    text-transform: uppercase;
+    border-radius: 20px !important;
+    box-shadow: 0 3px 0 0 rgba(29, 28, 28, 0.4) !important;    
+}
+img{
+    height: 500px;
+}
+.card-body{
+    box-shadow: 0 3px 0 0 rgba(0, 0, 0, 0.199) !important;
+}
+
+.jeez{
+    width: 800px !important;
+}
+.btn-warning{
+    border-radius: 0 !important;
+}
+.carousel-indicators li{
+    border-radius: 50% !important;
+    height: 15px !important;
+    width: 15px !important;
+}
+.fa{
+    color:white !important;
+    padding: 0 15px;
+    font-size: 20px;
+}
+.fa-facebook{
+    border-left: 2px solid white;
+    padding-left: 15px !important;
+}
+.move{
+    padding: 0 20px;
+}
