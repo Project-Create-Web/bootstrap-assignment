@@ -1,0 +1,25 @@
+.slide{
+    height: 500px !important;
+    width:100% !important;
+}
+.ca-cap{
+    padding: 10px 0 0 0;
+    height: 300px;
+    /* margin-top: 150px; */
+}
+.ca-cap p{
+    text-align: left !important;
+    font-size: 18px;
+}
+.img-slide1{
+    background: url('../images/facebook.jpg');
+    padding-top: 200px;
+}
+.img-slide2{
+    background: url('../images/background.jpg');
+    padding-top: 200px;
+}
+.img-slide3{
+    background: url('../images/laptop.jpg');
+    padding-top: 200px;
+}
