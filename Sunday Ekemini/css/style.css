@@ -1,0 +1,61 @@
+#header{
+    background: linear-gradient(rgba(0, 0, 34, 0.55),rgba(0, 0, 34, 0.55)), url('../images/ee.jpg') fixed no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+#members{
+    background-color: green;
+    color: white;
+    
+}
+.empty{
+    height: 220px;
+    background-color: white;
+    
+}
+#footer{
+    background-color: #000;
+    padding: 10px 0;
+    color: white;
+}
+.botn{
+    border-radius: 0px;
+    background-color: #da952f;
+}
+.form{
+    width: 70%;
+}
+.header-1{
+    margin-top: 150px;
+    color: white 
+}
+.im{
+    width: 100% !important;
+    box-shadow: 0px 3px 3px #000000;
+}
+.vid{
+    width: 100%;
+}
+.box{
+    background-color: white;
+    /* padding: 30px 0; */
+    width: 100%;
+    box-shadow: 0px 3px 3px #000000; 
+}
+.box1{
+    border-right: 1px solid black;
+}
+.box2{
+    border-right: 1px solid black;
+}
+.num{
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px 2px 10px 20px;
+}
+
+
+#member{
+    background-color: #f2f2f2;
+}
