@@ -1,0 +1,491 @@
+#body-top{
+    background-color: rgb(230, 230, 230);
+}
+.section1-cover{
+    background-color: #fff;
+    padding-top: 60px;
+}
+.con2{
+    background-color: #fff;
+}
+#first-section{
+    /* background: linear-gradient(rgba(10, 23, 51, 0.55),rgba(10, 23, 51, 0.55)), url('../images/Wallmax.png') fixed; */
+    /* background-size: contain; */
+    /* height: 650px; */
+}
+.logo{
+    font-size: 35px !important;
+    font-weight: 700;
+    color: rgb(33, 117, 33) !important;
+}
+.nav-link{
+    font-size: 20px !important;
+    margin-right: 30px;
+    color: #000 !important;
+}
+.nav-link:hover{
+    font-size: 20px !important;
+    margin-right: 30px;
+    color: rgb(98, 98, 98) !important;
+}
+.navbar{
+    height: 100px !important;
+    /* padding-left: 60px !important; */
+
+}
+.home-nav{
+    color: rgb(33, 117, 33) !important;
+    font-weight: 600 !important;
+}
+.join-nav{
+    background-color: rgb(33, 117, 33);
+    width: 150px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 0 2px 10px #000;
+    margin-left: 20px;
+}
+.join-nav:hover{
+    background-color: rgb(56, 158, 56);
+    width: 150px;
+    color: white !important;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 2px 2px 10px #000;
+    margin-left: 20px;
+}
+/* carousel styling*/
+
+
+.slide{
+    height: 500px !important;
+    width:100% !important;
+}
+.ca-cap{
+    padding: 10px 0 0 0;
+    height: 300px;
+    /* margin-top: 150px; */
+}
+.ca-cap h1{
+    font-size: 80px;
+    color: #fff;
+    text-transform: capitalize;
+    margin-top: -70px
+}
+.ca-cap p{
+    text-align: left !important;
+    font-size: 24px;
+    color: #fff;
+}
+.img-slide1{
+    background: linear-gradient(rgba(4, 9, 19, 0.7),rgba(4, 9, 19, 0.7)), url('../images/mac.png') no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+}
+.img-slide2{
+    background: linear-gradient(rgba(4, 9, 19, 0.7),rgba(4, 9, 19, 0.7)), url('../images/background.jpg');
+    padding-top: 200px;
+}
+.img-slide3{
+    background: linear-gradient(rgba(4, 9, 19, 0.7),rgba(4, 9, 19, 0.7)), url('../images/laptop.jpg');
+    padding-top: 200px;
+}
+
+
+/* carousel styling ends*/
+
+.con1{
+    padding-top: 50px;
+}
+.pad-row{
+    /* padding-left: 60px; */
+    padding-top: 150px;
+}
+.head-nav h1{
+    font-size: 70px;
+    font-weight: 600;
+}
+.head-nav p{
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+.body-top{
+    background-color: white;
+    padding-top: 50px;
+}
+.top-bg{
+    height: 400px;
+    width: 100%;
+    background: linear-gradient(rgba(4, 9, 19, 0.7),rgba(4, 9, 19, 0.7)), url('../images/facebook.jpg') no-repeat;
+    background-size: cover;
+    cursor: pointer;
+}
+.play-icon{
+    margin-top: 30%;
+    margin-left: 43%
+}
+.after-dot-text h2{
+    font-size: 45px;
+    font-weight: 700;
+    margin-left: 20px;
+    color: rgb(33, 117, 33) !important;
+}
+.after-dot-text p{
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    line-height: 40px;
+    /* font-weight: 600; */
+}
+.after-dot-text h6{
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 20px;
+    color: rgb(33, 117, 33) !important;
+    text-transform: uppercase;
+}
+.why{
+    padding-bottom: 50px;
+}
+.card-box-sha{
+    box-shadow: 0px 3px 3px #000000;
+    /* margin-top: -2px; */
+    width: 98% !important;
+    padding-bottom: 10px;
+    /* height: 600px; */
+}
+.card-box-sha p{
+    font-size: 14px;
+    font-weight: 600;
+}
+.see-more{
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: rgb(216, 115, 0);
+    text-decoration: none !important;
+}
+.second-con{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.long-card{
+    box-shadow: 0 3px 10px black;
+}
+.bord{
+    border-right: 1px solid rgb(160, 160, 160);
+}
+.bord3{
+    border-left: 1px solid rgb(160, 160, 160);
+}
+.first-short-card h1{
+    color: rgb(33, 117, 33);
+    font-size: 100px;
+    font-weight: 700;
+}
+.first-short-card p{
+    font-size: 25px;
+}
+.green-bg{
+    background-color: rgb(33, 117, 33);
+    padding: 70px 0;
+}
+.vision{
+    padding-bottom: 50px;
+}
+.vision h2{
+    font-weight: 700;
+    color: #fff;
+}
+.vision p{
+    font-size: 25px;
+    color: #fff;
+}
+.white{
+    height: 400px;
+    width: 100%;
+    background: linear-gradient(rgba(4, 9, 19, 0.7),rgba(4, 9, 19, 0.7)), url('../images/images1.jpg') no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+.play-icon2{
+    margin-top: 38%;
+    margin-left: 43%
+}
+#suscribe{
+    text-align: center;
+    padding-top: 80px;
+    background-color: #fff;
+}
+.sub h2{
+    font-size: 40px;
+    font-weight: 200;
+    text-transform: capitalize;
+    color: rgb(33, 117, 33);
+}
+.input-sub{
+    width: 100% !important;;
+    padding-bottom: 120px;
+    margin-top: 20px;
+    width: 65% !important;
+}
+.input-sub2{
+    height: 60px !important;
+    padding-left: 40px !important;
+}
+.pado{
+    display: flex;
+    justify-content: center;
+}
+.h3-sub{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(219, 124, 0) !important;
+    padding: 0 5px;
+    width: 150px;
+    cursor: pointer;
+    color: #fff !important;
+    font-size: 18px !important;
+    height: 60px;
+}
+.h3-sub:hover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(236, 130, 0) !important;
+    padding: 0 5px;
+    width: 150px;
+    cursor: pointer;
+    color: #fff !important;
+    font-size: 18px !important;
+    height: 60px;
+}
+input[type="text"]::placeholder{
+    color: rgb(202, 202, 202) !important;
+    font-size: 22px;
+}
+.footer{
+    display: flex;
+    width: 100%;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(49, 49, 49);
+    color: #fff;
+    /* padding-top: 20px; */
+}
+.text-footer{
+    border-right: 1px solid #fff;
+    padding-right: 30px;
+    height: 30px;
+}
+.text-footer p{
+    font-size: 20px;
+}
+.styico i{
+    margin-left: 15px;
+    color:#fff; 
+    font-size:20px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1024px){
+    .ca-cap{
+        padding: 10px 0 0 0;
+        height: 300px;
+        /* margin-top: 150px; */
+    }
+    .ca-cap h1{
+        font-size: 35px;
+        color: #fff;
+        text-transform: capitalize;
+        margin-top: -70px
+    }
+    .ca-cap p{
+        text-align: left !important;
+        font-size: 20px;
+        color: #fff;
+    }
+    .img-slide1{
+        background: linear-gradient(rgba(4, 9, 19, 0.7),rgba(4, 9, 19, 0.7)), url('../images/mac.png') no-repeat;
+        background-size: cover;
+        padding-top: 200px;
+    }
+    .img-slide2{
+        background: linear-gradient(rgba(4, 9, 19, 0.7),rgba(4, 9, 19, 0.7)), url('../images/background.jpg');
+        padding-top: 200px;
+    }
+    .img-slide3{
+        background: linear-gradient(rgba(4, 9, 19, 0.7),rgba(4, 9, 19, 0.7)), url('../images/laptop.jpg');
+        padding-top: 200px;
+    }
+    .section1-cover{
+        background-color: #fff;
+        padding-top: 20px;
+    }
+    .con1{
+        padding-top: 1px;
+    }
+    .top-bg{
+        height: 300px;
+        width: 100%;
+        background: linear-gradient(rgba(4, 9, 19, 0.7),rgba(4, 9, 19, 0.7)), url('../images/facebook.jpg') no-repeat;
+        background-size: cover;
+    }
+    .play-icon{
+        margin-top: 33%;
+        margin-left: 36%
+    }
+    .after-dot-text h2{
+        font-size: 38px;
+        margin-top: 20px;
+        /* text-align: center; */
+        font-weight: 700;
+        color: rgb(33, 117, 33) !important;
+    }
+    .after-dot-text p{
+        font-size: 18px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        letter-spacing: 2px;
+        line-height: 30px;
+        /* text-align: center; */
+        /* font-weight: 600; */
+    }
+    .after-dot-text h6{
+        font-size: 18px;
+        font-weight: 700;
+        color: rgb(33, 117, 33) !important;
+        text-transform: uppercase;
+    }
+    .second-con{
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+    .why{
+        padding-bottom: 10px;
+    }
+    .card-box-sha{
+        box-shadow: 0px 3px 3px #000000;
+        margin-top: 15px;
+        width: 98% !important;
+        padding-bottom: 10px;
+        /* height: 600px; */
+    }
+    .bord{
+        border-right: none;
+        border-bottom: 1px solid black;
+    }
+    .bord3{
+        border-left: none;
+        border-top: 1px solid black;
+    }
+    .green-bg{
+        background-color: rgb(33, 117, 33);
+        padding: 20px 0;
+    }
+    .vision{
+        padding-bottom: 30px;
+    }
+    .vision h2{
+        font-size: 40px;
+        font-weight: 700;
+        color: #fff;
+    }
+    .vision p{
+        font-size: 20px;
+        color: #fff;
+    }
+    .white{
+        width: 100%;
+        height: 300px;
+        /* background-color: #fff; */
+        box-shadow: 0px 3px 3px #000000;
+    }
+    .input-sub{
+        /* width: 100% !important; */
+        padding-bottom: 120px;
+        margin-top: 20px;
+        width: 100% !important;
+    }
+    .h3-sub{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(255, 127, 42) !important;
+        padding: 0 5px;
+        width: 80px;
+        color: #fff !important;
+        height: 40px;
+    }
+    input[type="text"]::placeholder{
+        color: rgb(202, 202, 202) !important;
+        font-size: 18px;
+    }
+    .sub h2{
+        font-size: 30px;
+        font-weight: bold;
+        text-transform: capitalize;
+        color: rgb(33, 117, 33);
+    }
+    #suscribe{
+        text-align: center;
+        padding-top: 20px;
+        background-color: #fff;
+    }
+    .input-sub{
+        width: 100% !important;;
+        padding-bottom: 40px;
+        margin-top: 20px;
+    }
+    .input-sub2{
+        height: 60px !important;
+        padding-left: 5px !important;
+        height: 40px !important;
+    }
+    .footer{
+        display: flex;
+        width: 100%;
+        height: 60px;
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(49, 49, 49);
+        color: #fff;
+        /* padding-top: 20px; */
+    }
+    .text-footer{
+        border-right: 1px solid #fff;
+        padding-right: 10px;
+        height: 30px;
+        padding-top: 7px;
+    }
+    .text-footer p{
+        font-size: 14px;
+    }
+    .styico i{
+        margin-left: 5px;
+        color:#fff; 
+        font-size:15px;
+    }
+
+
+
+
+}

@@ -38,3 +38,11 @@ img{
 .move{
     padding: 0 20px;
 }
+.carousel-caption{
+    position: absolute !important;
+    left: 0 !important;
+    margin-left: 0 !important;
+    padding-left: 20px !important;
+    text-align: justify;
+    margin-bottom: 50px !important;
+}

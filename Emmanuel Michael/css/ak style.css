@@ -1,0 +1,70 @@
+body {
+    background-color: gray;
+}
+#imagess {
+    background: #fff
+}
+.navbar-b {
+    font-weight: bold;
+    font-size: 27px;
+}
+.btn-join {
+    border-radius: 30px !important;
+    padding: 5px 35px !important;
+    text-transform: uppercase;
+}
+.nav-link {
+    margin: 5px;
+}
+.card-img {
+    height: 300px !important;
+}
+.cover-text {
+    position: absolute;
+    z-index: 10;
+    bottom: 40%;
+    left: 6%;
+    color: #fff;
+    width: 350px;
+}
+.p-head {
+    font-size: 12px;
+}
+.carousel-item {
+    height: 500px;
+}
+.carousel-indicators li {
+    position: absolute;
+    width:10px !important;
+    height: 10px !important;
+    border-radius: 5px;
+    z-index: 15;
+    margin-right: 10px !important;
+    bottom: -60px;
+    cursor: pointer;
+    border: none;
+    background-color: gray !important;
+}
+.carousel-indicators .active {
+    background-color: lightgray !important;
+}
+#why {
+    background: #fff;
+    padding-top: 25px;
+}
+#footer {
+    background: black;
+    padding: 10px;
+    justify-content: center;
+}
+.vl {
+    border-left: 2px solid #fff;
+    height: 30px;
+}
+.icons {
+    font-size: 13px;
+}
+.a-text {
+    font-size: 13px;
+    font-weight: bold !important;
+}

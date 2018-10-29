@@ -1,0 +1,148 @@
+#header{
+        background: linear-gradient(rgba(0, 0, 34, 0.55), rgba(172, 176, 202, 0.397)), url('../image/fig.jpg' ) fixed no-repeat;
+        background-size: cover;
+        height: 700px; 
+}
+.navbar{
+    position: fixed !important;
+   z-index: 100;
+    width: 100%;
+    top:0;
+}
+.nav-link{
+    /* font-family: Courier New, Courier, monospace; */
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 20px;
+}
+.nav-item a:hover{
+        background-color: rgba(30, 126, 56, 0.80) !important;
+        color: rgba(30, 126, 56, 0.80) !important;
+}
+#green-text{
+    color: rgba(30, 126, 56, 0.80) !important;
+}
+
+.bt1{
+    width: 100px !important;
+    border-radius: 50px !important;
+    height: 100%;
+    margin-left: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
+    /* margin-top: 10% !important;
+    margin-bottom: 10% !important; */
+    
+    
+    /* margin: 25px,0,25px,0; */
+}
+
+.b-text
+{
+    margin-top: 350px;
+}
+ h2, a{
+    color: rgba(30, 126, 56, 0.80) !important;
+}
+.card a{
+    color: rgb(201, 130, 9) !important;
+}
+#about{
+    width: 100%;
+    background: linear-gradient(rgba(217, 219, 230, 0.397), rgba(217, 219, 235, 0.397));
+}
+
+#subscribe{
+    width: 100%;
+    background: linear-gradient(rgba(217, 219, 230, 0.397), rgba(217, 219, 235, 0.397));
+}
+
+.white{
+    width:  350px !important;
+    height: 300px !important;
+background-color: white;
+color: white;
+margin-top: 50px;
+margin-bottom: 100px;
+margin-right: 200%;
+margin-right: 2oopx;
+/* padding: 299px; */
+}
+.row-N{
+    width: 100%;
+    height: 300px; 
+ }
+ #form{
+    padding-top: 10px;
+   padding-left: 25%;
+   padding-right: 25%;
+    width:100%;
+ } 
+
+ #first {
+    float: left;
+ }
+ #footer{
+     width: 100%;
+     height: 50%;
+    background-color: rgb(41, 37, 37);
+    padding: 10px;
+    padding-left: 400px;
+    /* margin: 10px; */
+    color: #fcfcfc;
+}
+.row i{
+    margin-left: 10px;
+}
+
+.input,
+.submit {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 20px;
+    border-radius: 0;
+    -webkit-appearance: none;
+}
+
+.input {
+    width: 70%;
+    border: 1px solid lightgray;
+    
+}
+
+.submit {
+    width: 30%;
+    background-color: rgb(214, 106, 4);
+    color: white;
+    font-weight: bold;
+
+    /**
+     * If the input field has a border,
+     * you need it here too to achieve equal heights.
+     */
+    border: 1px solid transparent;
+}
+
+/**
+ * Firefox Fix
+ * Without that the submit button will be too high.
+ */
+.submit::-moz-focus-inner { 
+    border: 0;
+}
+.subscribe-text{
+    font-size: 30px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: lightgray;
+    opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: lightgray;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: lightgray;
+}
