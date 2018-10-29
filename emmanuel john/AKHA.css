@@ -70,7 +70,7 @@
 #footer{
 	background-color: grey;
 	font:20px;
-	height: 60px;
+	height: 120px;
 
 }
 .copyright{
@@ -78,8 +78,8 @@
 	color: white;
 	margin-top: 0px;
 }
-.fab{
-	font-size: 20px;
+.fa{
+	font-size: 25px;
 	color: white;
 	margin-right: 10px;
 }
@@ -113,6 +113,17 @@
 }
 .card{
 	margin-top: 20px;
+}
+li{
+	list-style:none;
+	display: inline-block;
+	align-content: center;
+	text-align: center;
+}
+ul{
+	display: inline-block;
+	align-content: center;
+	text-align: center;
 }
 
 
