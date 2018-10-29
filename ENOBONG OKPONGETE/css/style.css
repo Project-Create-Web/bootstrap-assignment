@@ -1,0 +1,85 @@
+#header {
+    width: 100%;
+    height: 100%;
+}
+
+.nav-link {
+    font-family: cambria;
+    font-size: 20px;
+    font-weight: 800;
+    text-transform: capitalize;
+    margin-left: 30px;
+}
+
+.btn-more {
+    border-radius: 100px !important;
+    color: white !important;
+    font-weight: 600 !important;
+}
+
+.navbar-brand {
+    font-size: 70px;
+    font-weight: 600;
+}
+
+.h5-header-text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 50px;
+}
+
+.carou {
+    border-radius: 50%;
+    height: 15px !important;
+    width: 15px !important;
+}
+
+#features {
+    height: 400px;
+}
+
+.card-link {
+    color: orange;
+    font-weight: 500;
+}
+
+.shadow {
+    box-shadow: 0px 1px 3px #838383;
+}
+
+#reps {
+    background-color: #f2f2f2;
+    align-items: center;
+    height: 300px;
+}
+
+.card-rep {
+    font-weight: 1000;
+    color: #219652;
+}
+
+#vision {
+    background-color: #219652;
+}
+
+.text {
+    padding: 20px 20px;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.border {
+    height: 300px;
+    background-color: #fff;
+}
+
+.border-footer {
+    border-right: 2px solid #fff;
+    padding-right: 10px;
+}
+
+.icons {
+    color: #fff;
+    padding-left: 10px;
+}
