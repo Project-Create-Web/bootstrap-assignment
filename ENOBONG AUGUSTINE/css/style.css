@@ -1,0 +1,125 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+}
+
+.navbar-brand {
+    font-size: 50px !important;
+    color: #060 !important;
+    margin-left: 50px;
+}
+
+.btn-join {
+    border-radius: 3em !important;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 0.5em 3em !important;
+    color: #fff;
+    font-size: 1.5em !important;
+    background-color: #060;
+}
+
+.nav-link {
+    margin-left: 40px;
+}
+
+.navbar {
+    font-weight: bold;
+}
+
+.carousel-caption {
+    position: absolute;
+    left: 75% !important;
+    bottom: 20px;
+    right: 2% !important;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.img {
+    vertical-align: middle;
+    border-style: none;
+    height: 500px;
+}
+
+.caro-circle {
+    border-radius: 50%;
+    height: 15px !important;
+    width: 15px !important;
+}
+
+.caption {
+    position: absolute;
+    top: 10%;
+    z-index: 5;
+    text-align: center;
+    right: 55% !important;
+    left: 10% !important;
+    font-size: 1.5em;
+}
+
+.video {
+    margin: 0em 1.5em !important;
+}
+
+.vid {
+    width: 400px;
+    height: 225px;
+}
+
+.cardimg {
+    height: 20em;
+}
+
+.shadow {
+    box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+
+.card {
+    height: 30em;
+}
+
+.greybg {
+    background-color: #f3f3f3;
+    width: 99.4%;
+}
+
+.row {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.col-md-4 {
+    padding: 0px !important;
+}
+
+.card:hover {
+    box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+.n-lg {
+    color: #060;
+    font-size: 5em;
+}
+#statement{
+    background-color: #060;
+}
+#rotate3D {
+    width: 25em;
+    height: 25em;
+    color: #060;
+    position: relative;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 5em 0em 5em 11em !important;
+    float: left !important;
+    /* margin-right: 50px; */
+    /* border-radius: 0.5em; */
+    border: 1px solid #000000;
+    background: #fff;
+    padding: 10px;
+}
+.copyright {
+   border-right:  1px solid white;
+}
